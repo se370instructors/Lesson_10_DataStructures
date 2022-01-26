@@ -1,6 +1,6 @@
-## SE370 AY21-2
-## Lesson 11 - Factors, DataFrames, and Lists
-## MAJ Williams
+## SE370 AY22-2
+## Lesson 10 - Factors, DataFrames, and Lists
+
 
 ## Last class we focused on working with arrays and matrices, and understanding
 ## arithemetic operators, relational operators, and logicals. Today, we are going
